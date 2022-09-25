@@ -1,7 +1,7 @@
 <h1 align="center">ALAN-MOVIES</h1>
 
 LIVE APP - https://alan-movies.vercel.app/ <br/>
-TO KNOW MORE - https://www.youtube.com/watch?v=VtN89GsUnR4
+
 
 # COMMANDS:
 **What are the best movies today? / What are the top movies now?**<br/>
@@ -43,7 +43,7 @@ As for a visually impaired person, he/she may not be able to go through his/her 
 
 1. Clone the repository:
 
-### `git clone https://github.com/mousoom/alan-movies.git`
+### `https://github.com/Saim7787/alan-ai.git`
 
 2. Go to the project directory:
 
